@@ -10,8 +10,8 @@ Here, it is a example for the euro 2016.
 
 ## Creation
 
-1. Go to google drive and create a Google Sheet
-2. Customize your Google Sheet with freeze row and colors, respectively in :
+1. Go to Google Drive and create Google Sheets
+2. Customize your Google Sheet with freeze row and colors, respectively in :  
 `View > Freeze` and `Format > Conditional formatting...`
 3. Write your script to define your own functions in `Tools > Script editor...`
 
