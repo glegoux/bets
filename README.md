@@ -1,1 +1,30 @@
 # Bets
+
+For a two-opponents competition, you bet the result of each match :
+* 0 point if you mistook
+* 2 points if you are correct with a 1 point bonus if the score is correct.
+
+The winner is who has the more important of accumulated points.
+
+Here, it is a example for the euro 2016.
+
+## Creation
+
+1. Go to google drive and create a Google Sheet
+2. Customize your Google Sheet with freeze row and colors, respectively in :
+`View > Freeze` and `Format > Conditional formatting...`
+3. Write your script to define your own functions in `Tools > Script editor...`
+
+## Documentation of Apps Script
+
+https://www.google.com/script/start/
+
+## Coding Style
+
+* File with extension `.gs` as Google Sheets.
+* `UPPER_CASE_UNDERSCORE` for public functions
+* `lower_case_underscore` for private functions 
+
+## JsDoc
+
+https://developers.google.com/closure/compiler/docs/js-for-compiler
