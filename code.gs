@@ -46,7 +46,7 @@ function GET_RESULT(score1, score2) {
 /**
  * Know if a number exists.
  * @param {number} number
- * @return {booolean} true if and only if this number exists
+ * @return {boolean} true if and only if this number exists
  */
 function is_existing(number) {
   return number !== null && number !== undefined && !isNaN(number);
