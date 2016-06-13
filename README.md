@@ -21,7 +21,7 @@ https://www.google.com/script/start/
 
 ## Coding Style
 
-* File with extension `.gs` as Google Sheets.
+* File with extension `.gs` as Google Sheets
 * `UPPER_CASE_UNDERSCORE` for public functions
 * `lower_case_underscore` for private functions 
 
