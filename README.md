@@ -8,12 +8,16 @@ The winner is the one who has the more important of accumulated points.
 
 Here, it is a example for the euro 2016.
 
-## Creation
+## Install
 
 1. Go to Google Drive and create Google Sheets
 2. Customize your Google Sheet with freeze row and colors, respectively in :  
 `View > Freeze` and `Format > Conditional formatting...`
 3. Write your script to define your own functions in `Tools > Script editor...`
+4. Here :
+  * Score total is obtained with `=SUM(E2:E100)`
+  * Score total is obtained with `=COMPARE_RESULT(C<i>:D<i>)` where `i` is the `ith` row.
+ 
 
 ## Documentation of Apps Script
 
