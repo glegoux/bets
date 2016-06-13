@@ -16,7 +16,7 @@ Here, it is a example for the euro 2016.
 3. Write your script to define your own functions in `Tools > Script editor...`
 4. Here :
   * Score total is obtained with `=SUM(E2:E100)`
-  * Score total is obtained with `=COMPARE_RESULT(C<i>:D<i>)` where `i` is the `ith` row.
+  * Score total is obtained with `=COMPARE_RESULT(C<i>:D<i>)` where `<i>` is the `ith` row.
  
 
 ## Documentation of Apps Script
