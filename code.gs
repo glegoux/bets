@@ -7,7 +7,7 @@
  * @return {number} 3 if the expected result is exactly identical (same scores),
  *                  2 if the expected match end is correct (win, loss, or tie),
  *                  0 else.
- * But if the input has an incorrect format return void.
+ *   But if the input has an incorrect format return void.
  */
 function COMPARE_RESULT(str1, str2) {
   var [s1, s2] = extract_result(str1);
@@ -58,8 +58,7 @@ function is_existing(number) {
  * @param {string} str with this format 'score1 - score2' where score1 and score2 are 
  *   numbers and represents respectively the score of the first opponent and the score of 
  *   the second oponent.
- * @return {Object} list of 2 numbers either null, NaN or matching 
- * with the given string representations.
+ * @return {Object} list of 2 numbers either null, NaN or matching with the given string representations.
  */
 function extract_result(str) {
   s = str.split('-');
