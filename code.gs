@@ -58,7 +58,7 @@ function is_existing(number) {
  * @param {string} str with this format 'score1 - score2' where score1 and score2 are 
  *   numbers and represents respectively the score of the first opponent and the score of 
  *   the second oponent.
- * @return {list<number>} list of 2 numbers either null, NaN or matching 
+ * @return {Object} list of 2 numbers either null, NaN or matching 
  * with the given string representations.
  */
 function extract_result(str) {
