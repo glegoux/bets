@@ -36,4 +36,4 @@ https://www.google.com/script/start/
 
 https://developers.google.com/closure/compiler/docs/js-for-compiler
 
-[bets]: https://github.com/glegoux/bets/edit/master/euro-2016.png "bets"
+[bets]: https://github.com/glegoux/bets/blob/master/euro-2016.png "bets"
