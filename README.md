@@ -6,7 +6,7 @@ For a two-opponents competition, you bet the result of each match :
 * 0 point if you mistook
 * 2 points if you are correct with a 1 point bonus if the score is correct
 
-The winner is the one who has the more important of accumulated points.
+The winner is the one who has the most important accumulated points.
 
 Here, it is a example for the euro 2016.
 
