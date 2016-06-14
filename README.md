@@ -1,5 +1,7 @@
 # Bets
 
+![alt text][bets]
+
 For a two-opponents competition, you bet the result of each match :
 * 0 point if you mistook
 * 2 points if you are correct with a 1 point bonus if the score is correct
@@ -17,6 +19,7 @@ Here, it is a example for the euro 2016.
 4. Here :
   * Score total is obtained with `=SUM(E2:E100)`
   * Score total is obtained with `=COMPARE_RESULT(C<i>:D<i>)` where `<i>` is the `ith` row.
+  * The colums C and D should be in Plain Text in `Format > Number > Plain Text`.
  
 
 ## Documentation of Apps Script
@@ -32,3 +35,5 @@ https://www.google.com/script/start/
 ## JsDoc
 
 https://developers.google.com/closure/compiler/docs/js-for-compiler
+
+[bets]: https://github.com/glegoux/bets/edit/master/euro-2016.png "bets"
